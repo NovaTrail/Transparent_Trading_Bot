@@ -23,4 +23,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ## Disclaimer
 This project is provided for educational purposes only. It should not be used for financial or trading purposes. 
 
+## Decision Diagram 
 ![Alt text](Tree_plot.png)
