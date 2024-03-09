@@ -1,4 +1,4 @@
-# Transparent_Trading_Bot
+# Transparent Trading Algorithm
 
 ## Overview
 The Transparent Trading Bot project aims to to create a trading bot whose decisions are understandable at a human level, making it easier for users to trust and analyze its strategy.\
